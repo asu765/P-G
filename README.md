@@ -17,7 +17,7 @@ pip install modules
 
 pip install random
 
-git clone 
+git clone https://github.com/asu765/P-G.git
 
 ls
 
