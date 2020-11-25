@@ -21,7 +21,9 @@ git clone https://github.com/asu765/P-G.git
 
 ls
 
-cd P-G ls
+cd P-G 
+
+ls
 
 python p-g.py
 
